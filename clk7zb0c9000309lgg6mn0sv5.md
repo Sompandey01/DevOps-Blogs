@@ -3,10 +3,11 @@ title: "Mastering Linux Basics: Essential Commands for Everyday Use 🐧💻"
 datePublished: Tue Jul 18 2023 07:34:16 GMT+0000 (Coordinated Universal Time)
 cuid: clk7zb0c9000309lgg6mn0sv5
 slug: mastering-linux-basics-essential-commands-for-everyday-use
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1689665563332/e58b531f-e956-46bf-889b-031be43584d2.jpeg
 tags: linux, devops, linux-for-beginners, 90daysofdevops, tws
 
 ---
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689748854759/9c9d3c87-9bbf-4efa-9194-b492f42c4654.jpeg align="center")
 
 ## Introduction:
 
