@@ -3,7 +3,7 @@ title: "Day 9: Deep Dive in Git & GitHub for DevOps Engineers."
 datePublished: Tue Jul 25 2023 12:28:30 GMT+0000 (Coordinated Universal Time)
 cuid: clki9wd51000y09jo81cgb3s5
 slug: day-9-deep-dive-in-git-github-for-devops-engineers
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690288056203/f0b375f3-edf6-4fff-a227-57302998ac2b.avif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690288806102/2254528a-d3a4-469f-8d56-b5b99c32da9b.png
 tags: github, opensource, git, devops, 90daysofdevops
 
 ---
