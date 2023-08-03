@@ -3,6 +3,7 @@ title: "Day 17: Docker Project for DevOps Engineers."
 datePublished: Thu Aug 03 2023 12:04:11 GMT+0000 (Coordinated Universal Time)
 cuid: clkv3zr0g000009mohrja9gn8
 slug: day-17-docker-project-for-devops-engineers
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691064418768/436ee5bb-556c-4c89-b71f-a4d77678612e.jpeg
 tags: docker, opensource, devops, 90daysofdevops, trainwithshubham
 
 ---
