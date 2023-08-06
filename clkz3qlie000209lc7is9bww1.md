@@ -7,9 +7,9 @@ tags: docker, devops, docker-command, 90daysofdevops, trainwithshubham
 
 ---
 
-## Docker Commands
+## Docker Commands:
 
-**Image Management:**
+### Image Management:
 
 * `docker build`: Build a Docker image from a Dockerfile.
     
@@ -24,7 +24,7 @@ tags: docker, devops, docker-command, 90daysofdevops, trainwithshubham
 * `docker inspect`: Display detailed information about a Docker image.
     
 
-**Container Management:**
+### Container Management:
 
 * `docker run`: Create and start a new container.
     
@@ -51,7 +51,7 @@ tags: docker, devops, docker-command, 90daysofdevops, trainwithshubham
 * `docker stats`: Display a live stream of container resource usage.
     
 
-**Docker Compose:**
+### Docker Compose:
 
 * `docker-compose up`: Create and start containers defined in a docker-compose.yml file.
     
@@ -64,7 +64,7 @@ tags: docker, devops, docker-command, 90daysofdevops, trainwithshubham
 * `docker-compose logs`: View logs from containers defined in a docker-compose.yml file.
     
 
-**Volume Management:**
+### Volume Management:
 
 * `docker volume create`: Create a new named volume.
     
@@ -77,7 +77,7 @@ tags: docker, devops, docker-command, 90daysofdevops, trainwithshubham
 * `docker volume prune`: Remove all unused volumes.
     
 
-**Network Management:**
+### Network Management:
 
 * `docker network create`: Create a new user-defined network.
     
@@ -90,14 +90,14 @@ tags: docker, devops, docker-command, 90daysofdevops, trainwithshubham
 * `docker network prune`: Remove all unused networks.
     
 
-**Registry/Login:**
+### Registry/Login:
 
 * `docker login`: Log in to a Docker registry (e.g., Docker Hub).
     
 * `docker logout`: Log out from a Docker registry.
     
 
-**System Information:**
+### **System Information:**
 
 * `docker version`: Display Docker version information.
     
