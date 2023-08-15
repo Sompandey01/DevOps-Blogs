@@ -82,7 +82,7 @@ Here we will deploy a web app through Jenkins master to Jenkins worker node.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692073730699/f31138b6-6aad-4db6-bf63-1fb3ad66eccc.png align="center")
 
-<mark>Step-10:</mark> Click on Save, and your project will be tied to Agent2 and then build your project.
+<mark>Step-10:</mark> Click on Save, and your project will be tied to Agent-01 and then build your project.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692073800864/74e1a6b0-2956-4d9a-bf62-1755a88f8e64.png align="center")
 
