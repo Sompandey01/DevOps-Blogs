@@ -10,7 +10,7 @@ tags: devops, jenkins, jenkins-devops, 90daysofdevops, trainwithshubham
 
 ## Jenkins Interview
 
-Here are some Jenkins-specific questions related to Docker that one can use during a DevOps Engineer interview:
+Here are some Jenkins-specific questions related to Jenkins that one can use during a DevOps Engineer interview:
 
 ## Questions
 
