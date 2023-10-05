@@ -33,6 +33,12 @@ The AppSpec file provides an easy way to specify deployment instructions for AWS
 
 ### \-&gt; Deploy index.html file on EC2 machine using nginx
 
+Please refer day 50 and day 51 for better understandings. Here is the link for Day 50 and Part 51.
+
+%[https://hashnode.com/post/clmxe75ut000g0amphugg7ei9] 
+
+%[https://hashnode.com/post/clmyd0td100020aigh2qch9pl] 
+
 * Create an instance or restart the previous one.
     
 
