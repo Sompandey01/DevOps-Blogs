@@ -10,9 +10,9 @@ tags: software-development, devops, terraform, 90daysofdevops, trainwithshubham
 
 ## What are Blocks and Resources in Terraform??
 
-Blocks: Blocks define different parts of your Terraform configuration. The main block types are:
+**Blocks:** Blocks define different parts of your Terraform configuration. The main block types are:
 
-Provider Blocks: Provider blocks configure a specific cloud provider for Terraform to use. For example, an AWS provider block would look like:
+**Provider Blocks:** Provider blocks configure a specific cloud provider for Terraform to use. For example, an AWS provider block would look like:
 
 ```bash
   provider "aws" {
