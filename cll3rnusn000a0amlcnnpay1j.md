@@ -102,7 +102,7 @@ The website is working on port 8001
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691587037836/5c41a811-cdd0-42ac-9fb9-424989e20aec.png align="center")
 
-### Set up a cleanup step in the Jenkins project to run "docker-compose down" command to stop and remove the containers defined in the compose file.
+### Set up a cleanup step in the Jenkins project to run the "docker-compose down" command to stop and remove the containers defined in the compose file.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691587258855/185d8635-c468-453c-b5d4-7a0509d8b96f.png align="center")
 
