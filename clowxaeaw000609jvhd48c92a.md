@@ -100,6 +100,12 @@ sudo service telegraf status
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699704346405/bf0ffc30-ec43-400c-a346-30350b729929.png align="center")
 
+Give permission
+
+```yaml
+sudo chmod 666 /var/run/docker.sock
+```
+
 ## Configuring InfluxDB
 
 By utilizing InfluxDB as the backend storage for Telegraf, we can effectively store and analyze time series data, enabling monitoring, performance analysis, and observability of our systems and applications.
