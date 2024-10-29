@@ -10,13 +10,13 @@ tags: cloud, aws, devops, awscommunity, devops-articles
 
 AWS Control Tower provides a centralized and automated way to set up and govern a multi-account AWS environment. Whether you're building a new organization or migrating to AWS, Control Tower's comprehensive setup and governance features can simplify your journey. In this guide, we’ll walk you through the process of setting up AWS Control Tower, step-by-step.
 
-### 1\. What is AWS Control Tower?
+### What is AWS Control Tower?
 
 AWS Control Tower is a service that helps you set up and manage multiple AWS accounts in a way that’s secure and well-organized. It gives you tools to make sure each account follows important rules for security and compliance, so you don’t have to do it all manually.
 
 ---
 
-### 2\. Why Use AWS Control Tower?
+### Why Use AWS Control Tower?
 
 AWS Control Tower is helpful because it:
 
@@ -31,7 +31,7 @@ AWS Control Tower is helpful because it:
 
 ---
 
-### 3\. What is a Landing Zone in AWS Control Tower?
+### What is a Landing Zone in AWS Control Tower?
 
 A **Landing Zone** is a ready-to-go AWS setup that Control Tower creates for you. It includes:
 
@@ -61,7 +61,7 @@ Before we start, make sure you have the following:
 
 ---
 
-### 4\. How to Set Up a Landing Zone
+### How to Set Up a Landing Zone
 
 To set up a Landing Zone, follow these steps:
 
@@ -102,13 +102,13 @@ After this, you’ll have a secure setup ready for managing your accounts.
 
 ---
 
-### 5\. What is SCP (Service Control Policy)?
+### What is SCP (Service Control Policy)?
 
 An **SCP** is a rule that you can apply to groups of accounts in AWS. It controls what services or actions are allowed or blocked in those accounts. For example, you could use an SCP to block certain services that aren’t needed in some accounts, like stopping test accounts from using specific services.
 
 ---
 
-### 6\. How to Attach Policies to Accounts
+### How to Attach Policies to Accounts
 
 To attach policies (like SCPs) to AWS accounts:
 
@@ -133,7 +133,7 @@ This way, you make sure each account in the group follows the same rules.
 
 ---
 
-### 7\. What is Single Sign-On (SSO) in AWS?
+### What is Single Sign-On (SSO) in AWS?
 
 **AWS Single Sign-On (SSO)** is a tool that lets you log in once and access all your AWS accounts without needing separate passwords for each one. SSO can connect to your company’s existing login system, so it’s easier for users to access the accounts they need.
 
