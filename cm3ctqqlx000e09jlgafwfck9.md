@@ -141,7 +141,7 @@ def rotate_aws_keys(event, context):
             iam.update_access_key(
                 UserName=AWS_IAM_USER,
                 AccessKeyId=key['AccessKeyId'],
-                Status='Icnative'
+                Status='Inactive'
             )
             iam.delete_access_key(UserName=AWS_IAM_USER, AccessKeyId=key['AccessKeyId'])
             print(f"Old AWS Access Key {key['AccessKeyId']} has been deleted.")
