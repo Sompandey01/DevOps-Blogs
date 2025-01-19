@@ -123,19 +123,19 @@ After 40-50 minutes, your domain should direct you to your EC2 instance's HTTPD 
 
 To ensure visitors aren’t routed to an offline server, set up health checks:
 
-1. **Create Health Checks for Both Instances**: In Route 53, configure health checks for each EC2 instance. Set the endpoint as the public IP address and choose HTTP as the protocol.
+1. In Route 53, configure health checks for each EC2 instance. Set the endpoint as the public IP address and choose HTTP as the protocol.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731506242361/ba06760a-7602-4b22-9a29-b03e45abebd1.png align="left")
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731506316714/fde5f3aa-847b-42fe-bf20-62d81d656b5b.png align="left")
     
-2. **Associate Health Checks with Route 53 Records**: Link each A record to its corresponding health check. Now, Route 53 will monitor the instances, redirecting traffic to the healthy server if one instance goes down.
+2. Link each A record to its corresponding health check. Now, Route 53 will monitor the instances, redirecting traffic to the healthy server if one instance goes down.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731506550172/276c21bb-3ae0-43a5-9d91-ad0a553afd2a.png align="center")
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731506593573/44c25dc7-943e-4fa9-aad4-a667094d5bf9.png align="center")
     
-3. Check the health check whether your servers are healthy or not.
+3. Check the health check to see is your servers are healthy or not.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731506671591/153ad4f6-435e-4703-a6ac-47e2367f0308.png align="center")
     
@@ -143,7 +143,7 @@ To ensure visitors aren’t routed to an offline server, set up health checks:
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731507037407/5c074738-0f98-4a38-b34e-956c110b7636.png align="center")
     
-5. Since we terminated the Mumbai server health check now divert all the traffics to N. Virginia server or we can say the healthy server. Try to access your server and see the magic.
+5. Since we terminated the Mumbai server health check will now divert all the traffics to N. Virginia server or we can say the healthy server. Try to access your server and see the magic.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1731507186987/8bde2a7a-7130-463e-8707-8af2d1dabac6.png align="left")
     
