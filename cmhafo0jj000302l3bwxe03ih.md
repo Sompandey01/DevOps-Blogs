@@ -140,7 +140,7 @@ Now we’ll make the volume usable inside the EC2 instance. SSH into the instanc
 * As you can see from the 20G 425M is used, volume is in use now.
     
 
-## Step 4: Increase the EBS Volume Size
+## 🧩Step 4: Increase the EBS Volume Size
 
 <mark>Note:</mark> You can only increase the volume but you can not decrease it
 
@@ -171,7 +171,7 @@ In real-world scenarios, applications grow — so you’ll need to expand your s
 4. It’s done. Let’s more forward to the next part
     
 
-## Step 5: Taking the snapshot of the data and attaching it to the another ec2 instance
+## 🧩Step 5: Taking the snapshot of the data and attaching it to the another EC2 instance
 
 Let’s first insert some data in the EBS and then we will take the snapshot of the EBS in short the data present in the EBS volume. Snapshot is the backup of the data. So if you want to backup some data in the snapshot make sure you have everything present cause snapshot will only backup the data which is present in the real time so we aware. After the snapshot is taken and the EBS volume is getting more data it won’t be saved.
 
